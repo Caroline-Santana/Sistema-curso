@@ -2,7 +2,7 @@
  *Objetivo: Gerenciar as médias de uma faculdade
  * Autor:        Caroline
  * Data criação: 04/08/2022 
- * Versão:       2.0
+ * Versão:       3.0
  ******************************************************************************************/
 
 const { exit } = require("process");
